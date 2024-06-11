@@ -4,10 +4,11 @@ Assets: synty store
  
 Aufgabenstellung:
 Sneaky
-    Themen: Trigger, Gegner, Bewegungen, Geometrie
+    Themen: Trigger, Gegner, Bewegungen, Geometrie\n
 
     Beschreibung:
-    In dieser Aufgabe sollt ihr ein Stealth-Game erstellen. Jeder von euch erstellt dabei ein separates Level, während ihr die Grundlogik gemeinsam umsetzt. Ein Level soll mindestens daraus bestehen, dass ein Gegenstand eingesammelt und ein Zielort erreicht werden muss. Dabei gibt es Gegner, die den Spieler nicht sehen dürfen, an ihnen muss vorbei geschlichen werden, wenn sie gerade wegschauen.
+    In dieser Aufgabe sollt ihr ein Stealth-Game erstellen. Jeder von euch erstellt dabei ein separates Level, während ihr die Grundlogik gemeinsam umsetzt. Ein Level soll mindestens daraus bestehen, dass ein Gegenstand eingesammelt und ein Zielort erreicht werden muss.   
+    Dabei gibt es Gegner, die den Spieler nicht sehen dürfen, an ihnen muss vorbei geschlichen werden, wenn sie gerade wegschauen.
 
     Anforderungen:
     Ihr sollt ein Third Person Spiel in 3D erstellen.
