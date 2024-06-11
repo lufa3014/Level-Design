@@ -2,9 +2,9 @@
 
 Assets: synty store
  
-Aufgabenstellung:
-Sneaky
-    Themen: Trigger, Gegner, Bewegungen, Geometrie\n
+Aufgabenstellung: Sneaky
+    
+    Themen: Trigger, Gegner, Bewegungen, Geometrie
 
     Beschreibung:
     In dieser Aufgabe sollt ihr ein Stealth-Game erstellen. Jeder von euch erstellt dabei ein separates Level, während ihr die Grundlogik gemeinsam umsetzt. Ein Level soll mindestens daraus bestehen, dass ein Gegenstand eingesammelt und ein Zielort erreicht werden muss.   
