@@ -6,14 +6,19 @@
 Controls: 
 
  Keyboard:
+  
   WASD to move
+  
   E - interact
+  
   Left Click - Attack (only with Weapon)
+  
   Enter - Open Chat
  
   F1 - show hints (guide)
   
   1 - load Level01
+  
   2 - load Level02
 
  (Also supports Controller)
