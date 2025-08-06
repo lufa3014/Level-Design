@@ -5,6 +5,8 @@ This project was developed at FH Wedel as part of the **Level Design** module.
 A 3D puzzle/stealth game prototype built in Unity, with a strong focus on level design.  
 Responsibilities included enemy AI, animation systems, interactive objects, chat window, and shader effects.
 
+> **Note:** This repository only contains the Unity build, not the source code.
+
 ## Levels
 
 - **Level01** – Lukas Frahm
