@@ -1,48 +1,39 @@
-# Level-Design
+# Sneaky – Stealth/Puzzle Game in Unity
 
- Level01 - Lukas Frahm
- Level02 - Florian Koester
+This project was developed at FH Wedel as part of the **Level Design** module.  
 
-Controls: 
+A 3D puzzle/stealth game prototype built in Unity, with a strong focus on level design.  
+Responsibilities included enemy AI, animation systems, interactive objects, chat window, and shader effects.
 
- Keyboard:
-  
-  WASD to move
-  
-  E - interact
-  
-  Left Click - Attack (only with Weapon)
-  
-  Enter - Open Chat
- 
-  F1 - show hints (guide)
-  
-  1 - load Level01
-  
-  2 - load Level02
+## Levels
 
- (Also supports Controller)
+- **Level01** – Lukas Frahm
+- **Level02** – Florian Koester
 
+## Controls
 
-Assets: synty store
- 
-Aufgabenstellung: Sneaky
-    
-    Themen: Trigger, Gegner, Bewegungen, Geometrie
+**Keyboard:**
+- WASD to move
+- E – interact
+- Left Click – attack (only with weapon)
+- Enter – open chat
+- F1 – show hints (guide)
+- 1 – load Level01
+- 2 – load Level02
 
-    Beschreibung:
-    In dieser Aufgabe sollt ihr ein Stealth-Game erstellen. Jeder von euch erstellt dabei ein separates Level, während ihr die Grundlogik gemeinsam umsetzt. Ein Level soll mindestens daraus bestehen, dass ein Gegenstand eingesammelt und ein Zielort erreicht werden muss.   
-    Dabei gibt es Gegner, die den Spieler nicht sehen dürfen, an ihnen muss vorbei geschlichen werden, wenn sie gerade wegschauen.
+(Controller support available)
 
-    Anforderungen:
-    Ihr sollt ein Third Person Spiel in 3D erstellen.
-    Unabhängig von der Gruppengröße muss jede Person mindestens 1 Level erstellen. Die Funktionalitäten werden zusammen erstellt, aus diesen Funktionalitäten baut allerdings jede Person allein ein Level.
-    Jedes dieser Level hat mindestens 5 Gegner.
-    Die Gegner haben ein festes Sichtfeld. Spieler im Sichtfeld haben das Level verloren. Das Sichtfeld muss visualisiert werden können.
-    Gegner können per Mausklick im Nahkampf angegriffen werden (Je nach Sichtfeld geht das natürlich nur von hinten/von der Seite).  Getroffene Gegner verschwinden.
-    Gegner patrouillieren auf einem festen Weg und müssen eine klar erkennbare Vorderseite haben.
-    Es gibt mindestens einen Gegenstand pro Level. Dieser Gegenstand (z.B. Schlüssel) muss eingesammelt werden und von Anfang an erkennbar, wie man diesen findet.
-    Jedes Level hat ein Ziel, welches nur mit dem Gegenstand erreicht bzw. ausgelöst werden kann.
-    Die Level müssen herausfordernd aber lösbar sein (zumindest vom Ersteller). Die Level sollten außerdem so groß/komplex sein, dass ihr jeweils ungefähr 2 Minuten zum Durchspielen braucht.
-    Auch müssen die Level über die Zahlentasten auswählbar sein. 
-    Verlorene Level beginnen von vorne. Gewonnene Level starten das nächste (mit Ausnahme des letzten).
+## Gallery
+
+![Level Design Chamber](screenshots/LEVEL_DESIGN-CHAMBER.gif)
+![Level Design Cave](screenshots/LEVEL-DESIGN-CAVE.gif)
+
+## Assets
+
+Assets used: Synty Store
+
+## Download
+
+A release package is available [here](https://github.com/lufa3014/Level-Design/releases/latest) containing:
+
+- Unity build (Windows)
